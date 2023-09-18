@@ -1,0 +1,11 @@
+11:15:38 - INFO - Test for p4 programs
+11:15:38 - INFO - Subscribe attempt #1
+11:15:38 - INFO - Subscribe response received 0
+11:15:38 - INFO - Connected to BFRT server 127.0.0.1:50052
+11:15:38 - INFO - Binding with p4_name n4r_hackthon
+11:15:38 - INFO - Binding with p4_name n4r_hackthon successful!!
+11:15:38 - INFO - Received n4r_hackthon on GetForwarding on client 0, device 0
+11:15:39 - INFO - Added port: 2/0 10G none 2
+11:15:39 - INFO - Added port: 2/1 10G none 2
+11:15:39 - INFO - Added port: 2/2 10G none 2
+11:15:39 - INFO - Added port: 2/3 10G none 2
